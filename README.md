@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently developing my engineering thesis project, which aims to assist professors and students at Collegium Medicum in Bydgoszcz, Poland. This project involves creating an exam platform that integrates with IoT devices to streamline the exam process.<br>🌱 I’m currently learning about Domain Driven Design and microservices architecture.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mateusz-różański-84b279298) 
 
